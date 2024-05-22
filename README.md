@@ -59,3 +59,16 @@ const HelloWorldComponent = () => (
 </div>
 
 ```
+
+
+## Contribution
+We welcome contributions from the community! If you'd like to contribute to Alloy, please follow these guidelines:
+
+- Fork the repository and clone it locally.
+Create a new branch for your feature or bug fix.
+- Make your changes and ensure they adhere to the project's coding style.
+- Write tests for any new functionality you add.
+- Submit a pull request with a clear description of your changes and why they are necessary.
+
+## License
+Alloy is licensed under the MIT License.
