@@ -1,6 +1,8 @@
 # 🚀 Alloy
 
-![Alloy Logo](docs/img/alloylang.png)
+<div >
+  <img src="docs/img/alloylang.png" alt="Alloy Logo" width="400px" />
+</div>
 
 ## 🌟 Overview
 
